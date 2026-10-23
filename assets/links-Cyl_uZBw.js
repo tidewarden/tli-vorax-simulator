@@ -1,0 +1,1 @@
+const s="https://github.com/tidewarden/tli-vorax-simulator",t=`${s}/issues/new/choose`,o=`${s}/releases/latest`,a="/tli-vorax-simulator/optimal-play.html",l="/tli-vorax-simulator/",e="/tli-vorax-simulator/simulator.html",i="/tli-vorax-simulator/solver.html",r=`${s}/issues/new`,c="https://buymeacoffee.com/tidewarden";export{o as D,a as G,l as H,t as I,i as S,e as a,r as b,c};
