@@ -13,4 +13,6 @@ Tools for the Surgical Preparation minigame in Torchlight Infinite (SS11, Vorax)
 
 This repo holds the app's releases and the issue reports. The code is no longer published here.
 
-Based on [Moebing/Torchlight-Infinite-SS11-Vorax-simulator](https://github.com/Moebing/Torchlight-Infinite-SS11-Vorax-simulator) (MIT). See [LICENSE](LICENSE).
+Inspired by [Moebing/Torchlight-Infinite-SS11-Vorax-simulator](https://github.com/Moebing/Torchlight-Infinite-SS11-Vorax-simulator).
+
+© 2026 tidewarden. All rights reserved: see [LICENSE](LICENSE).
